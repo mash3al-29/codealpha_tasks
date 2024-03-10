@@ -1,1 +1,1 @@
-CodeAlpha Quote Gnerator App development internship using flutter framework
+CodeAlpha Quote Generator App development internship using flutter framework
